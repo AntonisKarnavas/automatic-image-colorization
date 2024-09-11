@@ -80,7 +80,7 @@ Image 1          |  Image 2 | Image 3
 ### Prerequisites
 
 - Python 3.x
-- Libraries: OpenCV, NumPy, Scikit-learn, Scikit-image, Matplotlib, etc.
+- Virtualenv for creating isolated Python environments
 
 ### Installation and Running
 
